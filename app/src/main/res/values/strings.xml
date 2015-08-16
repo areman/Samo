@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Samo</string>
+    <string name="is_ready">Android is now ready to serve.</string>
+    <string name="is_locked">Android is now locked with the master password.</string>
+</resources>
